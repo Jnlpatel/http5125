@@ -1,2 +1,2 @@
-# http5125
-All Files related to course HTTP-5125.
+# Back-End Web Development 1 - HTTP-5125-RNB
+All Files related to course Back-End Web Development 1 - HTTP-5125-RNB.
